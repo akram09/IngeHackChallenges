@@ -9,7 +9,7 @@ curve = NIST256p
 G = curve.generator
 n = curve.order
 
-#
+# launch the challenge
 r = process("./station.py")
 received  = r.recvuntil('> ').decode()
 public_badge = re.findall(r'Here is your public badge of the day \((\d+),(\d+)\)', received)[0]
