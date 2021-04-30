@@ -1,3 +1,4 @@
+#!/usr/bin/python 
 import random 
 import ecdsa
 import hashlib
@@ -52,7 +53,7 @@ def play_game(game_number,badge):
         print("This is a PREMIUM Game you need to prove you are a premium member by showing us your private badge")
         priv_badge = int(input("=> "))
         if priv_badge == badge:
-            print(open("games/flag.txt",'r').read().decode())
+            print(open("flag.txt",'r').read())
         else:
             print("Hacker Detected ! Good Try: ) BYE")
     else:
@@ -61,21 +62,21 @@ def play_game(game_number,badge):
         time.sleep(1)
         print("ENJOY PLAYING {} ! BY IngehackStation ".format(game_name))
 
-def sign_autograph(priv_key):
+def sign_autograph(priv_badge):
     m1 = input("What do you want to be signed ? : ").encode()
     h1 = int(hashlib.sha256(m1).hexdigest(),16)
     done = False
     while not done:
         k = generate_random()
-        P = k1*G
+        P = k*G
         r = P.x()%n
         if r == 0:
             continue
-        s = inverse(k1,n)*(h1+r*priv)%n
+        s = inverse(k,n)*(h1+r*priv_badge)%n
         if s == 0:
             continue
         done = True
-    print("Here is your autograph go show it to your friends (r = {} , s =  {})".format(r,s))
+    print("Here is your autograph (r,s) go show it to your friends ({},{})".format(r,s))
 
 
 def main():
