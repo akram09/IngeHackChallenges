@@ -10,9 +10,7 @@ RUN mkdir /chall
 WORKDIR /chall 
 
 RUN useradd -M -d /chall chall 
-# print on connection failed
-RUN echo "========= Connection failed ===========" > /etc/banner_fail
-COPY ctf.xinetd /etc/xinetd.d/chall
+
 
 COPY ./flag.txt ./
 COPY ./requirements.txt ./ 
@@ -24,6 +22,6 @@ RUN chown -R chall:chall /chall && chmod -R 740 /chall
 RUN pip3 install -r requirements.txt
 
 ENTRYPOINT []
-CMD ["/usr/sbin/xinetd", "-dontfork"]
+CMD ["./start.sh"]
 
 EXPOSE 9999
