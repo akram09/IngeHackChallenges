@@ -1,0 +1,804 @@
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 69, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+[Errno 2] No such file or directory: 'flag.txt'Traceback (most recent call last):
+  File "./server.py", line 101, in main
+    login()
+  File "./server.py", line 73, in login
+    flag = open("flag.txt").read()
+FileNotFoundError: [Errno 2] No such file or directory: 'flag.txt'
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+[Errno 2] No such file or directory: 'flag.txt'Traceback (most recent call last):
+  File "./server.py", line 102, in main
+    login()
+  File "./server.py", line 74, in login
+    flag = open("flag.txt").read()
+FileNotFoundError: [Errno 2] No such file or directory: 'flag.txt'
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+[Errno 2] No such file or directory: 'flag.txt'Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 75, in login
+    flag = open("flag.txt").read()
+FileNotFoundError: [Errno 2] No such file or directory: 'flag.txt'
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+too many values to unpack (expected 2)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: too many values to unpack (expected 2)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
+not enough values to unpack (expected 2, got 1)Traceback (most recent call last):
+  File "./server.py", line 103, in main
+    login()
+  File "./server.py", line 67, in login
+    k,value= block.split(":")
+ValueError: not enough values to unpack (expected 2, got 1)
