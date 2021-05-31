@@ -12,7 +12,6 @@ def pad(s):
 def isvalidpad(s):
     if s[-1]== 0:
         return False
-    print(s[-1]*s[-1:]==s[-s[-1]:])
     return s[-1]*s[-1:]==s[-s[-1]:]
 
 def unpad(s):
@@ -56,7 +55,6 @@ def login():
     cipher = AES.new(key, AES.MODE_CBC, iv)
     token_padded  = cipher.decrypt(token_enc)
     try:
-        print(token_padded)
         if not isvalidpad(token_padded):
             raise PaddingError()
         token_unpadded = unpad(token_padded).decode('latin-1')
@@ -64,13 +62,12 @@ def login():
         padding = 0
         type ="user"
         for block in token.split(";"):
-            k,value= block.split(":")
-            if k=="padding":
-                padding = int(value)
-            elif k=="type":
-                type = value
-        print(type,padding)
-        print(SECRET_PADDING)
+            if len(block.split(":")) ==2:
+                k,value= block.split(":")
+                if k=="padding":
+                    padding = int(value)
+                elif k=="type":
+                    type = value
         if type=="root" and padding==SECRET_PADDING:
             flag = open("flag.txt").read()
             print("Here is your secret keep it warm : ) ")
@@ -99,12 +96,7 @@ def main():
             token = register()
             print(f"Welcome to the club here is your token {token}")
         elif choice == 2:
-            try:
-                login()
-            except Exception as e:
-                with open('log.txt', 'a') as f:
-                    f.write(str(e))
-                    f.write(traceback.format_exc())
+            login()
 
 
 
