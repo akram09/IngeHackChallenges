@@ -1,16 +1,13 @@
-FROM ubuntu:18.04
+FROM python:3.8-alpine3.12
 
+RUN apk --update add gcc build-base freetype-dev \
+    libpng-dev openblas-dev \
+    socat tcpdump 
 
-RUN apt-get update && apt-get install -y \
-    python3-pip \
-    xinetd \
-    python3-dev 
+RUN addgroup -S chall && adduser -S chall -G chall
 
 RUN mkdir /chall 
 WORKDIR /chall 
-
-RUN useradd -M -d /chall chall 
-
 
 COPY ./flag.txt ./
 COPY ./requirements.txt ./ 
@@ -18,10 +15,15 @@ COPY ./station.py ./
 COPY ./start.sh ./
 
 
-RUN chown -R chall:chall /chall && chmod -R 740 /chall
+RUN chown -R root:chall /chall && \
+    chmod 750 /chall && \
+    chmod 444 /chall/flag.txt && \
+    chmod 550 /chall/station.py && \
+    chmod 550 /chall/start.sh
+
+
 RUN pip3 install -r requirements.txt
 
-ENTRYPOINT []
 CMD ["./start.sh"]
 
 EXPOSE 9999
